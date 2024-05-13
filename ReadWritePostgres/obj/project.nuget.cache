@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrnlH2AZ1zIrr5BO4RIJYfGR2ruB19SjjDm5pn+c9K+n+H3as2k0/PzLiuz5xbVsp83kv3QEMROPQTLRgQasGQ==",
+  "success": true,
+  "projectFilePath": "F:\\Documents\\reps\\ReadWritePostgres\\ReadWritePostgres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

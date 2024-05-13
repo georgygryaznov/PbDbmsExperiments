@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5kDmSr3FsK0t6JoO0ZFJ3oFlW92hRFeD5QtVdQtWlwgL6vpTPMIOSEMdPV80A00CU0ZlXT18cFAiGup7TOE8SA==",
+  "success": true,
+  "projectFilePath": "F:\\Documents\\reps\\PostgresController\\PostgresController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
